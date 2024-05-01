@@ -1,4 +1,4 @@
-public class Sixth_question {
+public class sixth_question {
     public static void main(String[] args){
         System.out.println("A well-formed");
         System.out.println("Java program");
