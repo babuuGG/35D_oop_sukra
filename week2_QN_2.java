@@ -14,6 +14,6 @@ public class week2_QN_2 {
         int SI = (principle*rate*time)/100 ;
         System.out.println(SI);
         scanner.close();
-
+    }
     
 }
