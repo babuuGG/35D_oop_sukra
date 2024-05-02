@@ -48,7 +48,7 @@ public class week3_QN_10 {
         }
 
         // Display the calculated area
-        System.out.println("The area of the chosen shape is: " + area);
+        System.out.println("Thee area of the chosen shape is: " + area);
 
         scanner.close();
     }
