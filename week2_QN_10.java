@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.util.function.ToDoubleBiFunction;
+
 
 public class week2_QN_10 {
     public static void main(String[] args) {
